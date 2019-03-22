@@ -1,0 +1,161 @@
+long,lat,OBJECTID,NAME_FIELD,NAME_FIE_1,NAME_FIE_2,ADDRESS,BLD_NUM,STREET_NAM,STREET_TYP,CITY,STATE,ZIP,URL
+-71.27353248,41.66907192,1,Bristol Fire Department, Eveready Station, ,72 Church St,72,Church,St,Bristol,RI,2809,http://www.bristolri.us/fire/stations.php
+-71.7488748,41.40508235,2,Bradford Volunteer Fire Department, , ,3 North Main St,3,North Main,St,Bradford,RI,2808,http://www.fire-marshal.ri.gov/departments.php
+-71.26059382,41.68660778,3,Bristol Fire Department, Hydraulic Fire Station, ,4 Annawamscutt Dr,4,Annawamscutt,Dr,Bristol,RI,2809,http://www.bristolri.us/fire/stations.php
+-71.27353248,41.66907192,4,Bristol Fire And Rescue Department, , ,72 Church St,72,Church,St,Bristol,RI,2809,http://www.bristolri.us/fire/stations.php
+-71.27898906,41.69166887,5,Bristol Fire Department, Defiance Hose Company, ,1124 Hope St,1124,Hope,St,Bristol,RI,2809,http://www.bristolri.us/fire/stations.php
+-71.70520473,41.35598865,6,Dunns Corner Fire Department,Station 2, ,5664 Post Rd,5664,Post,Rd,Charlestown,RI,2813,http://www.dunnscornersfire.com/
+-71.3280836,41.74809587,7,Barrington Fire Department, , ,100 Federal Rd,100,Federal,Rd,Barrington,RI,2806,http://www.barringtonrifire.com/
+-71.29439658,41.74590922,8,Hampden Meadows Volunteer Fire Company, , ,168 Sowams Rd,168,Sowams,Rd,Barrington,RI,2806,http://www.hmvfc.org/
+-71.67020263,41.91350886,9,Chepachet Fire Department, , ,1170 Putnam Pike,1170,Putnam,Pike,Glocester,RI,2814,http://www.chepachetfire.com/
+-71.57097686,41.17678205,10,New Shoreham Fire And Rescue,Block Island Station, ,10 Beach Ave,10,Beach,Ave,New Shoreham,RI,2807,http://www.new-shoreham.com/displayboards.cfm?id=29
+-71.78471718,41.42524145,11,Ashaway Volunteer Fire Association, , ,213 Main St,213,Main,St,Hopkinton,RI,2804,http://www.ashawayfire.org/
+-71.66386493,41.47224381,12,Richmond-Carolina Fire District,Station 1, ,208 Richmond Townhouse Rd,208,Richmond Townhouse,Rd,Richmond,RI,2812,http://www.rcfd.org/
+-71.63472828,41.38186816,13,Cross Mills Fire Department,Station 2, ,4258 Old Post Rd,4258,Old Post,Rd,Charlestown,RI,2813,http://www.crossmillsfd.org/
+-71.54333403,41.69770527,14,Coventry Fire District, Anthony Fire Station, ,571 Washington St,571,Washington,St,Coventry,RI,2816,http://www.anthonyfirestation.com
+-71.55438378,41.67424074,15,Central Coventry Fire District,Station 4, ,240 Arnold Rd,240,Arnold,Rd,Coventry,RI,2816,http://www.centralcoventryfd.com/home.php
+-71.77785724,41.91966765,16,West Glocester Fire Department,Station 1, ,2410 Putnam Pike,2410,Putnam,Pike,Glocester,RI,2814,http://www.glocesterri.org/firerescue.htm
+-71.74567442,41.86936455,17,West Glocester Fire Department,Station 2, ,22 Acciardo Dr,22,Acciardo,Dr,Glocester,RI,2814,http://www.glocesterri.org/firerescue.htm
+-71.64787192,41.42632541,18,Charlestown-Richmond Fire Department,Station 1, ,4377 South County Trl,4377,South County,Trl,Charlestown,RI,2813,http://chasfiredist.com/Home_Page.php
+-71.58513494,41.65606231,19,Lake Mishnock Volunteer Fire Department, , ,166 Mishnock Rd,166,Mishnock,Rd,West Greenwich,RI,2817,http://www.lakemishnockfire-rescue.org/
+-71.56918407,41.66804705,20,Hopkins Hill Fire District, , ,1 Bestwick Trl,1,Bestwick,Trl,Coventry,RI,2816,http://www.hopkinshillfd.com
+-71.63632663,41.70302129,21,Central Coventry Fire District,Station 7, ,2847 Flat River Rd,2847,Flat River,Rd,Coventry,RI,2816,http://www.centralcoventryfd.com/home.php
+-71.63459184,41.61493498,22,West Greenwich Fire Department, , ,830 Nooseneck Hill Rd,830,Nooseneck Hill,Rd,West Greenwich,RI,2817,http://www.wgtownri.org/safety/fire.php
+-71.6890238,41.64095435,23,Hianloland Fire Department,Station 1, ,270 Victory Hwy,270,Victory,Hwy,West Greenwich,RI,2817,http://www.hianlolandfire.org
+-71.73622595,41.81631777,24,South Foster Fire Department, , ,5 Mount Hygeia Rd,5,Mount Hygeia,Rd,Foster,RI,2825,http://www.townoffoster.com/fire.htm
+-71.44961375,41.66000064,25,East Greenwich Fire District,Station 1, ,284 Main St,284,Main,St,East Greenwich,RI,2818,http://www.egfiredistrict.net/
+-71.75339915,41.64073448,26,Hianloland Fire Company,Station 2,Rescue 3,244 Plain Rd,244,Plain,Rd,West Greenwich,RI,2817,http://www.hianlolandfire.org
+-71.59579457,41.88742783,27,Harmony Fire Department, , ,194 Putnam Pike,194,Putnam,Pike,Glocester,RI,2814,http://harmonyfd.com/
+-71.50862783,41.62504362,28,East Greenwich Fire District,Station 2, ,1180 Frenchtown Rd,1180,Frenchtown,Rd,East Greenwich,RI,2818,http://www.egfiredistrict.net/
+-71.69298505,41.6970466,29,Western Coventry Fire District,Station 1, ,1110 Victory Hwy,1110,Victory,Hwy,Coventry,RI,2827,http://www.wcfd.net/
+-71.54512917,41.5783092,30,Exeter Fire Department 1,Station 1, ,305 Ten Rod Rd,305,Ten Rod,Rd,Exeter,RI,2822,http://exeterfd.com/
+-71.63161037,41.76564832,31,Potterville Fire Department, , ,953 Tunk Hill Rd,953,Tunk Hill,Rd,Foster,RI,2825,http://www.pottervillefd.org/
+-71.54726491,41.53332224,32,Exeter Fire Department 2,Station 2, ,471 South County Trl,471,South County,Trl,Exeter,RI,2822,http://exeterfd.com/
+-71.74269601,41.73185322,33,Moosup Valley Fire Department, , ,55 Moosup Valley Rd,55,Moosup Valley,Rd,Foster,RI,2825,http://www.townoffoster.com/fire.htm
+-71.55284899,41.87176895,34,Smithfield Fire Department,Station 1, Headquarters,607 Putnam Pike,607,Putnam,Pike,Smithfield,RI,2828,http://www.smithfieldfire.com/
+-71.71909022,41.78531756,35,Foster Center Fire Department, , ,86 Foster Center Rd,86,Foster Center,Rd,Foster,RI,2825,http://www.townoffoster.com/fire.htm
+-71.16879747,41.51011979,36,Little Compton Fire Department, , ,60 Simmons Rd,60,Simmons,Rd,Little Compton,RI,2837,http://www.little-compton.com/dept.php
+-71.61268204,41.98005089,37,Nasonville Fire Department, , ,2577 Victory Hwy,2577,Victory,Hwy,Burrillville,RI,2830,http://www.burrillville.org/Public_Documents/FOV1-0000F6D7/links
+-71.71621645,41.50725725,38,Hope Valley - Wyoming Fire District,Station 1, ,996 Main St,996,Main,St,Hopkinton,RI,2832,http://www.hvwfd.org
+-71.31967943,41.51687851,39,Naval Station Newport Fire Department,Dod, ,690 Peary St,690,Peary,St,Newport,RI,2841,https://www.cnic.navy.mil/regions/cnrma/installations/ns_newport/om/fire_and_emergency_services/FireDepartment.html
+-71.6789891,41.96864608,40,Harrisville Fire Department, , ,201 Callahan School St,201,Callahan School,St,Burrillville,RI,2830,http://www.harrisvilleri.org/
+-71.47168455,41.96790133,41,Manville Fire Department, , ,112 Old Main St,112,Old Main,St,Lincoln,RI,2838,http://www.manvillefire.com/
+-71.31678255,41.49049252,42,Newport Fire Department,Station 1, ,21 West Marlborough St,21,West Marlborough,St,Newport,RI,2840,http://www.cityofnewport.com/departments/fire
+-71.71621645,41.50725725,43,Hope Valley - Wyoming Fire District,Camp Yawgoog, ,996 Main St,996,Main,St,Hope Valley,RI,2832,http://www.hvwfd.org
+-71.37083663,41.49656169,44,Jamestown Fire Department, , ,50 Narragansett Ave,50,Narragansett,Ave,Jamestown,RI,2835,http://jamestownfd.com/
+-71.49563106,41.53888579,45,North Kingstown Fire Department,Station 5, ,171 Indian Corner Rd,171,Indian Corner,Rd,North Kingstown,RI,2852,http://www.northkingstown.org/departments/fire
+-71.31075581,41.48833489,46,Newport Fire Department,Station 5, ,119 Touro St,119,Touro,St,Newport,RI,2840,http://www.cityofnewport.com/departments/fire
+-71.41233654,41.59354435,47,Quonset Fire Department, , ,210 Airport St,210,Airport,St,North Kingstown,RI,2852,http://www.fire-marshal.ri.gov/departments.php
+-71.31831258,41.46843779,48,Newport Fire Department,Station 2, ,100 Old Fort Rd,100,Old Fort,Rd,Newport,RI,2840,http://www.cityofnewport.com/departments/fire
+-71.59165912,41.83315069,49,North Scituate Fire Department, , ,201 Danielson Pike,201,Danielson,Pike,Scituate,RI,2857,http://www.northscituatefd.org/
+-71.46031018,41.57653096,50,North Kingstown Fire Department,Station 1, ,8150 Post Rd,8150,Post,Rd,North Kingstown,RI,2852,http://www.northkingstown.org/departments/fire
+-71.64613735,41.96000769,51,Oakland-Mapleville Fire Department,Station 1, ,46 Oakland School St,46,Oakland School,St,Burrillville,RI,2858,http://www.fire-marshal.ri.gov/departments.php
+-71.66256564,41.81597595,52,Chopmist Hill Fire Department, , ,1362 Chopmist Hill Rd,1362,Chopmist Hill,Rd,Scituate,RI,2857,http://www.scituateri.org/fire.htm
+-71.76163217,41.99843011,53,Wallum Lake Fire Department, , ,2198 Wallum Lake Rd,2198,Wallum Lake,Rd,Burrillville,RI,2859,http://www.fire-marshal.ri.gov/departments.php
+-71.27352492,41.52129062,54,Middletown Fire Department, , ,239 Wyatt Rd,239,Wyatt,Rd,Middletown,RI,2842,http://www.middletownri.com/government/4/Fire-Department
+-71.45903264,41.62227015,55,North Kingstown Fire Department,Station 3, ,6445 Post Rd,6445,Post,Rd,North Kingstown,RI,2852,http://www.northkingstown.org/departments/fire
+-71.39285694,41.88798072,56,Central Falls Fire Department, , ,160 Illinois St,160,Illinois,St,Central Falls,RI,2863,http://www.centralfallsfire.com/
+-71.43154203,41.93878056,57,Cumberland Fire District, , ,1530 Mendon Rd,1530,Mendon,Rd,Cumberland,RI,2864,http://www.cumberlandri.org/fire.htm
+-71.39494574,41.91763844,58,Valley Falls Fire Department, , ,555 High St,555,High,St,Cumberland,RI,2864,http://valleyfallsfire.com
+-71.3959352,41.97928142,59,North Cumberland Fire Department, , ,50 Arnold Mills Rd,50,Arnold Mills,Rd,Cumberland,RI,2864,http://www.northcumberlandfire.com/
+-71.40934251,41.90393461,60,Lonsdale Fire Department, , ,224 Front St,224,Front,St,Lincoln,RI,2865,http://www.fire-marshal.ri.gov/departments.php
+-71.43266381,41.93078855,61,Quinnville Fire Department, , ,861 Lower River Rd,861,Lower River,Rd,Lincoln,RI,2865,http://www.fire-marshal.ri.gov/departments.php
+-71.44853704,41.92848874,62,Lime Rock Fire Department, Headquarters, ,1085 Great Rd,1085,Great,Rd,Lincoln,RI,2865,http://www.fire-marshal.ri.gov/departments.php
+-71.25384706,41.59288849,63,Portsmouth Fire Department, , ,2300 East Main Rd,2300,East Main,Rd,Portsmouth,RI,2871,http://www.portsmouthfire.com/index.html
+-71.40783792,41.8944145,64,Saylesville Fire Department, , ,1 Chapel St,1,Chapel,St,Lincoln,RI,2865,http://www.fire-marshal.ri.gov/departments.php
+-71.70101824,41.96213836,65,Pascoag Fire Department, , ,105 Main St,105,Main,St,Burrillville,RI,2859,http://www.pascoagfire.org/
+-71.30793252,41.6032304,66,Prudence Island Volunteer Fire Department, , ,0292 Narragansett Ave,292,Narragansett,Ave,Prudence Island,RI,2872,http://pivfd.org/
+-71.45556254,41.95108632,67,Albion Fire Department, , ,38 School St,38,School,St,Lincoln,RI,2865,http://www.fdalbionri.org/
+-71.52419887,41.39142131,68,Snug Harbor Volunteer Fire Department, , ,17 Bliss Rd,17,Bliss,Rd,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=5
+-71.46303302,41.4661295,69,Tower Hill Fire Department, , ,4124 Tower Hill Rd,4124,Tower Hill,Rd,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=6
+-71.18569381,41.67064499,70,Tiverton Fire Department,Station 2, ,85 Main Rd,85,Main,Rd,Tiverton,RI,2878,http://www.tivertonfire.com/Tiverton_Fire_Department/Stations.html
+-71.42451342,41.52433448,71,North Kingstown Fire Department,Station 2, ,1865 Boston Neck Rd,1865,Boston Neck,Rd,North Kingstown,RI,2874,http://www.northkingstown.org/departments/fire
+-71.50175568,41.44955012,72,Peace Dale Fire Department, , ,460 High St,460,High,St,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=1
+-71.55150613,41.38717859,73,Matunuck Volunteer Fire Department, , ,49 Matunuck School House Rd,49,Matunuck School House,Rd,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=7
+-71.1470454,41.62431835,74,Tiverton Fire Department,Station 3, ,45 Crandall Rd,45,Crandall,Rd,Tiverton,RI,2878,http://www.tivertonfire.com/Tiverton_Fire_Department/Stations.html
+-71.49616686,41.43857946,75,Wakefield Fire Department, , ,197 Robinson St,197,Robinson,St,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=2
+-71.17662956,41.57141986,76,Tiverton Fire Department,Station 4, ,287 East Rd,287,East,Rd,Tiverton,RI,2878,http://www.tivertonfire.com/Tiverton_Fire_Department/Stations.html
+-71.56039903,41.42683479,77,Tuckertown Fire Department, , ,1116 Ministerial Rd,1116,Ministerial,Rd,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=8
+-71.48568541,41.38627147,78,Narragansett Fire Department,Station 2, ,900 Point Judith Rd,900,Point Judith,Rd,Narragansett,RI,2882,http://www.narragansettri.gov/index.aspx?nid=121
+-71.49117597,41.44471361,79,South Kingstown Forest Fire Department, , ,36 School St,36,School,St,South Kingstown,RI,2879,http://www.unionfiredistrict.com/index.php?page=stations&station=3
+-71.28118656,41.72916445,80,Warren Fire Department, Mechanics Fire Company Station 2, ,1 Joyce St,1,Joyce,St,Warren,RI,2885,http://www.townofwarren-ri.gov/departmentsaz/firedepartment.html
+-71.4597809,41.43194827,81,Narragansett Fire Department,Station 1, ,40 Caswell St,40,Caswell,St,Narragansett,RI,2882,http://www.narragansettri.gov/index.aspx?nid=121
+-71.52163788,41.48727846,82,Kingston Fire District, , ,35 Bills Rd,35,Bills,Rd,Kingstown,RI,2881,http://www.kingstonfire.net/
+-71.43810394,41.48975984,83,Narragansett Fire Department,Station 3, ,1170 Boston Neck Rd,1170,Boston Neck,Rd,Narragansett,RI,2882,http://www.narragansettri.gov/index.aspx?nid=121
+-71.23583765,41.70754218,84,Warren Fire Department, Touisett Fire Company, ,99 Touisset Rd,99,Touisset,Rd,Warren,RI,2885,http://www.townofwarren-ri.gov/departments/firedepartment.html
+-71.48428659,41.71036798,85,Warwick Fire Department,Station 9, ,314 Commonwealth Ave,314,Commonwealth,Ave,Warwick,RI,2886,http://www.warwickfirefighters.org/
+-71.26943389,41.72959263,86,Warren Fire Department, Rough And Ready Station 5, ,342 Metacom Ave,342,Metacom,Ave,Warren,RI,2885,http://www.townofwarren-ri.gov/departments/firedepartment.html
+-71.28118656,41.72916445,87,Warren Fire Department, Massasoit Hook And Ladder, ,1 Joyce St,1,Joyce,St,Warren,RI,2885,http://www.townofwarren-ri.gov/departments/firedepartment.html
+-71.45863531,41.70186132,88,Warwick Fire Department,Station 1, ,111 Veterans Memorial Dr,111,Veterans Memorial,Dr,Warwick,RI,2886,http://www.warwickfirefighters.org/
+-71.28041398,41.72162784,89,Warren Fire Department, Narragansett Engine Company Station 3, ,3 Vernon St,3,Vernon,St,Warren,RI,2885,http://www.townofwarren-ri.gov/departmentsaz/firedepartment.html
+-71.43582454,41.7363877,90,Warwick Fire Department,Station 8, ,1651 Post Rd,1651,Post,Rd,Warwick,RI,2888,http://www.warwickfirefighters.org/
+-71.38374504,41.70739932,91,Warwick Fire Department,Station 4, ,1501 West Shore Rd,1501,West Shore,Rd,Warwick,RI,2889,http://www.warwickfirefighters.org/
+-71.40838787,41.70375289,92,Warwick Fire Department,Station 3, ,2373 West Shore Rd,2373,West Shore,Rd,Warwick,RI,2889,http://www.warwickfirefighters.org/
+-71.28456695,41.73096936,93,Warren Fire Department And Rescue, , ,34 Miller St,34,Miller,St,Warren,RI,2885,http://www.townofwarren-ri.gov/departments/firedepartment.html
+-71.47070915,41.68474971,94,Warwick Fire Department,Station 5, ,450 Cowesett Rd,450,Cowesett,Rd,Warwick,RI,2886,http://www.warwickfirefighters.org/
+-71.41379217,41.75457417,95,Warwick Fire Department,Station 2, ,771 Post Rd,771,Post,Rd,Warwick,RI,2888,http://www.warwickfirefighters.org/
+-71.63621494,41.55688729,96,Richmond-Carolina Fire District,Station 3, ,2 Bell Schoolhouse Rd,2,Bell Schoolhouse,Rd,Richmond,RI,2892,http://www.rcfd.org/
+-71.39132753,41.7289144,97,Warwick Fire Department,Station 6, ,456 West Shore Rd,456,West Shore,Rd,Warwick,RI,2889,http://www.warwickfirefighters.org/
+-71.76880628,41.35102915,98,Dunns Corner Fire Department,Station 1, ,1 Langworthy Rd,1,Langworthy,Rd,Westerly,RI,2891,http://www.dunnscornersfire.com/
+-71.49162413,41.71903268,99,West Warwick Fire Department,Station 3, ,683 Providence St,683,Providence,St,West Warwick,RI,2893,http://www.westwarwickri.org/index.asp?Type=B_BASIC&SEC=%7BA9EC5237-3BAB-46CB-9565-60181056F45D%7D
+-71.81842106,41.32534776,100,Misquamicut Fire Department, , ,65 Crandall Ave,65,Crandall,Ave,Westerly,RI,2891,http://www.misquamicutfiredistrict.org/
+-71.51726137,41.68496212,101,West Warwick Fire Department,Station 4, ,110 Cowesett Ave,110,Cowesett,Ave,West Warwick,RI,2893,http://www.westwarwickri.org/index.asp?Type=B_BASIC&SEC=%7BA9EC5237-3BAB-46CB-9565-60181056F45D%7D
+-71.84843447,41.31733408,102,Watch Hill Fire Department, , ,222 Watch Hill Rd,222,Watch Hill,Rd,Westerly,RI,2891,http://www.watchhillfire.com/
+-71.82987919,41.37623996,103,Westerly Fire Department,Station 1,Headquarters,7 Union St,7,Union,St,Westerly,RI,2891,http://www.westerlyfire.com
+-71.82607492,41.34966058,104,Westerly Fire Department,Station 2, ,180 Beach St,180,Beach,St,Westerly,RI,2891,http://www.westerlyfire.com/stations.htm
+-71.52279969,41.70656363,105,West Warwick Fire Department,Station 1,Headquarters,1176 Main St,1176,Main,St,West Warwick,RI,2893,http://www.westwarwickri.org/index.asp?Type=B_BASIC&SEC=%7BA9EC5237-3BAB-46CB-9565-60181056F45D%7D
+-71.47693,42.00799669,106,Woonsocket Fire Department,Station 4, ,806 Mendon Rd,806,Mendon,Rd,Woonsocket,RI,2895,http://www.woonsocketfire.org/
+-71.71108765,41.43805414,107,Hope Valley - Wyoming Fire District,Station 2, ,350 Church St,350,Church,St,Richmond,RI,2894,http://www.hvwfd.org/
+-71.52981819,42.00119341,108,Woonsocket Fire Department,Station 6, ,504 Fairmount St,504,Fairmount,St,Woonsocket,RI,2895,http://www.woonsocketfire.org/
+-71.52654285,41.72053737,109,West Warwick Fire Department,Station 2, ,834 Main St,834,Main,St,West Warwick,RI,2893,http://www.westwarwickri.org/index.asp?Type=B_BASIC&SEC=%7BA9EC5237-3BAB-46CB-9565-60181056F45D%7D
+-71.54981094,41.95949917,110,North Smithfield Fire And Rescue Service Incorporated Station 2 Headquarters, Primrose, ,1470 Providence Pike,1470,Providence,Pike,North Smithfield,RI,2896,http://www.nsmithfieldri.org/town-departments/north-smithfield-fire-and-rescue-services-inc/
+-71.51389445,42.00877476,111,Woonsocket Fire Department,Station 3, ,241 North Main St,241,North Main,St,Woonsocket,RI,2895,http://www.woonsocketfire.org/
+-71.55850072,41.48732278,112,West Kingston Fire Department, , ,390 Fairgrounds Rd,390,Fairgrounds,Rd,South Kingstown,RI,2892,http://www.unionfiredistrict.com/index.php?page=stations&station=9
+-71.46223923,41.9788955,113,Cumberland Hill Fire Department, , ,3502 Mendon Rd,3502,Mendon,Rd,Cumberland,RI,2895,http://www.cumberlandhillfire.com/
+-71.52185017,41.99400837,114,Woonsocket Fire Department,Station 1, ,169 Providence St,169,Providence,St,Woonsocket,RI,2895,http://www.woonsocketfire.org/
+-71.42049159,41.81980369,115,Providence Fire Department,Headquarters, ,325 Washington St,325,Washington,St,Providence,RI,2903,http://www.providenceri.com/fire
+-71.5517141,42.00034096,116,North Smithfield Fire And Rescue Service Incorporated Station 1, , ,675 Saint Paul St,675,Saint Paul,St,North Smithfield,RI,2896,http://www.nsmithfieldri.org/town-departments/north-smithfield-fire-and-rescue-services-inc/
+-71.42615491,41.86806714,117,North Providence Fire Department,Station 4, ,1080 Mineral Spring Ave,1080,Mineral Spring,Ave,North Providence,RI,2904,http://www.npfire.com/
+-71.49735615,42.00214395,118,Woonsocket Fire Department,Station 2, ,5 Cumberland Hill Rd,5,Cumberland Hill,Rd,Woonsocket,RI,2895,http://www.woonsocketfire.org/
+-71.44818786,41.8597082,119,North Providence Fire Department,Station 3, ,1264 Douglas Ave,1264,Douglas,Ave,North Providence,RI,2904,http://www.npfire.com/
+-71.47047627,41.86044311,120,North Providence Fire Department,Station 1, ,1967 Mineral Spring Ave,1967,Mineral Spring,Ave,North Providence,RI,2904,http://www.npfire.com/
+-71.65175572,41.5030601,121,Richmond-Carolina Fire District,Station 2, ,252 Kingstown Rd,252,Kingstown,Rd,Richmond,RI,2898,http://www.rcfd.org/
+-71.40924248,41.82875288,122,Providence Fire Department,North Main Street, ,151 North Main St,151,North Main,St,Providence,RI,2903,http://www.providenceri.com/fire/north-main-street
+-71.39458383,41.84684199,123,Providence Fire Department,Rochambeau Avenue, ,273 Rochambeau Ave,273,Rochambeau,Ave,Providence,RI,2906,http://www.providenceri.com/fire/rochambeau-avenue
+-71.4183075,41.80072857,124,Providence Fire Department,Broad Street, ,845 Broad St,845,Broad,St,Providence,RI,2907,http://www.providenceri.com/fire/broad-street
+-71.40312796,41.77357584,125,Cranston Fire Department,Station 1, ,131 Park Ave,131,Park,Ave,Cranston,RI,2905,http://www.cranstonri.com/generalpage.php?page=25
+-71.39841681,41.82279088,126,Providence Fire Department,Brook Street, ,223 Brook St,223,Brook,St,Providence,RI,2906,http://www.providenceri.com/fire/brook-street
+-71.39720597,41.79387281,127,Providence Fire Department,Allens Avenue, ,776 Allens Ave,776,Allens,Ave,Providence,RI,2905,http://www.providenceri.com/fire/allens-avenue
+-71.43082412,41.84617907,128,Providence Fire Department,Admiral Street, ,426 Admiral St,426,Admiral,St,Providence,RI,2908,http://www.providenceri.com/fire/admiral-street
+-71.43789639,41.82427707,129,Providence Fire Department,Atwells Avenue, ,630 Atwells Ave,630,Atwells,Ave,Providence,RI,2909,http://www.providenceri.com/fire/atwells-avenue
+-71.40846302,41.84189231,130,Providence Fire Department,Branch Avenue, ,10 Branch Ave,10,Branch,Ave,Providence,RI,2904,http://www.providenceri.com/fire/branch-avenue
+-71.38662707,41.83325248,131,Providence Fire Department,Humbolt Avenue, ,155 Humboldt Ave,155,Humboldt,Ave,Providence,RI,2906,http://www.providenceri.com/fire/humboldt-avenue
+-71.44907401,41.8294822,132,Providence Fire Department,Mt. Pleasant Avenue, ,131 Mount Pleasant Ave,131,Mount Pleasant,Ave,Providence,RI,2908,http://www.providenceri.com/fire/mt-pleasant-avenue
+-71.42985345,41.78908617,133,Providence Fire Department,Reservoir Avenue, ,274 Reservoir Ave,274,Reservoir,Ave,Providence,RI,2907,http://www.providenceri.com/fire/reservoir-avenue
+-71.43507329,41.80993706,134,Providence Fire Department,Messer Street, ,201 Messer St,201,Messer,St,Providence,RI,2909,http://www.providenceri.com/fire/messer-street
+-71.46717644,41.84630071,135,North Providence Fire Department,Station 2, ,369 Fruit Hill Ave,369,Fruit Hill,Ave,North Providence,RI,2911,http://www.npfire.com/
+-71.36161145,41.76845447,136,East Providence Fire Department,Station 2, ,329 Bullocks Point Ave,329,Bullocks Point,Ave,East Providence,RI,2915,http://www.eastprovfirerescue.com/TITLEPAGE.html
+-71.36996671,41.81617946,137,East Providence Fire Department,Station 1, ,913 Broadway,913,Broadway, ,East Providence,RI,2914,http://www.eastprovfirerescue.com/TITLEPAGE.html
+-71.45980322,41.81893702,138,Providence Fire Department,Hartford Avenue, ,489 Hartford Ave,489,Hartford,Ave,Providence,RI,2909,http://www.providenceri.com/fire/hartford-avenue
+-71.50954489,41.88586735,139,Smithfield Fire Department,Station 2, ,66 Farnum Pike,66,Farnum,Pike,Smithfield,RI,2917,http://www.smithfieldfire.com/
+-71.43514232,41.77965351,140,Cranston Fire Department,Station 2, ,301 Pontiac Ave,301,Pontiac,Ave,Cranston,RI,2910,http://www.cranstonri.com/generalpage.php?page=25
+-71.53749244,41.82976054,141,Johnston Fire Department,Station 4, ,2289 Hartford Ave,2289,Hartford,Ave,Johnston,RI,2919,http://www.fire-marshal.ri.gov/departments.php
+-71.50041213,41.8272313,142,Johnston Fire Department,Station 3,Headquarters,1520 Atwood Ave,1520,Atwood,Ave,Johnston,RI,2919,http://www.fire-marshal.ri.gov/departments.php
+-71.36137275,41.79808768,143,East Providence Fire Department,Station 4, ,66 Wampanoag Trl,66,Wampanoag,Trl,East Providence,RI,2915,http://www.eastprovfirerescue.com/TITLEPAGE.html
+-71.493316,41.86281848,144,Johnston Fire Department,Station 2, ,99 Putnam Pike,99,Putnam,Pike,Johnston,RI,2919,http://www.fire-marshal.ri.gov/departments.php
+-71.35497728,41.83965916,145,East Providence Fire Department,Station 3, ,30 North Broadway,30,North Broadway, ,East Providence,RI,2916,http://www.eastprovfirerescue.com/TITLEPAGE.html
+-71.5158641,41.78101809,146,Cranston Fire Department,Station 6, ,1145 Scituate Ave,1145,Scituate,Ave,Cranston,RI,2921,http://www.cranstonri.com/generalpage.php?page=25
+-71.54558131,41.89938736,147,Smithfield Fire Department,Station 3, ,15 Log Rd,15,Log,Rd,Smithfield,RI,2917,http://www.smithfieldfire.com/
+-71.45743449,41.79002532,148,Cranston Fire Department,Station 3, ,1384 Cranston St,1384,Cranston,St,Cranston,RI,2920,http://www.cranstonri.com/generalpage.php?page=25
+-71.4901457,41.80576413,149,Johnston Fire Department,Station 1, ,1173 Atwood Ave,1173,Atwood,Ave,Johnston,RI,2919,http://www.fire-marshal.ri.gov/departments.php
+-71.45755945,41.75542588,150,Cranston Fire Department,Station 4, ,160 Sockanossett Cross Rd,160,Sockanossett Cross,Rd,Cranston,RI,2920,http://www.cranstonri.com/generalpage.php?page=25
+-71.43110284,41.81246252,151,Rhode Island Office Of The State Fire Marshal, , ,118 Parade St,118,Parade,St,Providence,RI,2909,http://www.fire-marshal.ri.gov/
+-71.47976986,41.74265528,152,Cranston Fire Department,Station 5, ,1041 Oaklawn Ave,1041,Oaklawn,Ave,Cranston,RI,2920,http://www.cranstonri.com/generalpage.php?page=25
+-71.70781246,41.96559013,153,Pascoag Fire Department, , ,141 Howard Ave,141,Howard,Ave,Burrillville,RI,2859,http://www.pascoagfire.org/
+-71.55890786,41.73489039,154,Hope-Jackson Fire Department, , ,117 Main St,117,Main,St,Scituate,RI,2831,http://www.hopejacksonfire.com/
+-71.36706927,41.88621497,155,Cottage Street Fire Station, , ,385 Cottage St,385,Cottage,St,Pawtucket,RI,2861, 
+-71.38210587,41.8789485,156,Roosevelt Ave Fire Station, , ,137 Roosevelt Ave,137,Roosevelt,Ave,Pawtucket,RI,2860, 
+-71.37147731,41.87267822,157,Columbus Ave Fire Station, , ,2 Columbus Ave,2,Columbus,Ave,Pawtucket,RI,2860, 
+-71.35399111,41.86796393,158,Newport Ave Fire Station, , ,385 Newport Ave,385,Newport,Ave,Pawtucket,RI,2861, 
+-71.3941459,41.86528962,159,West Ave Fire Station,Sayles Ave Fire Station, ,394 West Ave,394,West,Ave,Pawtucket,RI,2860, 
+-71.41269578,41.86833646,160,Smithfield Ave Fire Station, , ,301 Smithfield Ave,301,Smithfield,Ave,Pawtucket,RI,2860, 
